@@ -57,6 +57,7 @@ margin-left: 20px;
     border: none;
     font-size: larger;
     margin-right: 20px;
+    border-radius:5px;
 }
 .reroll:hover{
     scale: 1.1;
