@@ -1,0 +1,86 @@
+[{
+    "id": "Conqueror",
+    "name": "Conqueror",
+    "image": ""
+},
+{   
+    "id": "FleetFootwork",
+    "name": "Fleet Footwork",
+    "image": ""
+},
+{
+    "id":"PressTheAttack",
+    "name":"Press the attack",
+    "image": ""
+},
+{
+    "id":"LethalTempo",
+    "name":"Lethal tempo",
+    "image": ""
+},
+{
+    "id": "Electrocute",
+    "name": "Electrocute",
+    "image": ""
+},
+{
+    "id": "Predator",
+    "name": "Predator",
+    "image": ""
+},
+{
+    "id":"DarkHarvest",
+    "name":"Dark harvest",
+    "image": ""
+},
+{
+    "id":"HailOfBlades",
+    "name":"Hail of blades",
+    "image": ""
+},
+{
+    "id": "SummonAery",
+    "name": "Summon aery",
+    "image": ""
+},
+{
+    "id": "ArcaneComet",
+    "name": "Arcane comet",
+    "image": ""
+},
+{
+    "id":"PhaseRush", 
+    "name":"Phase rush",
+    "image": ""
+},
+{
+    "id": "GraspOfTheUndying",
+    "name": "Grasp of the undying",
+    "image": ""
+},
+{
+    "id": "Aftershock",
+    "name": "Aftershock",
+    "image": ""
+},
+{
+    "id":"Guardian",
+    "name":"Guardian",
+    "image": ""
+},
+{
+    "id": "GlacialAugment",
+    "name": "Glacial augment",
+    "image": ""
+},
+{
+    "id": "UnsealedSpellbook",
+    "name": "Unsealed Spellbook",
+    "image": ""
+},
+{
+    "id":"FirstStrike",
+    "name":"First strike",
+    "image": ""
+}
+]
